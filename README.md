@@ -2,7 +2,7 @@
 you can consider including features like user registration, login, password reset, and social login options.The app is built using HTML, CSS, and JavaScript.
 
 ## Getting Started
-Follow these steps to set up the project and configure Firebase for authentication.
+Follow these steps to clone the repo.
 
 ### Prerequisites
 1. You will need a Firebase account.
@@ -10,11 +10,11 @@ Follow these steps to set up the project and configure Firebase for authenticati
 ### Installation
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/g7vind/Firebase-login-signup.git
+git clone https://github.com/SekharSunkara6/Firebase-Signup-Login.git
 ```
 2. Navigate to the project directory.
 ```
-cd firebase-authentication-web-app
+cd your-directory-name
 ```
 ### Firebase Configuration
 
