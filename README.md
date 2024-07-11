@@ -1,5 +1,5 @@
 # Firebase Authentication Application
-This is a simple web application for user authentication using Firebase Authentication with email and password. The app is built using HTML, CSS, and JavaScript.
+you can consider including features like user registration, login, password reset, and social login options.The app is built using HTML, CSS, and JavaScript.
 
 ## Getting Started
 Follow these steps to set up the project and configure Firebase for authentication.
