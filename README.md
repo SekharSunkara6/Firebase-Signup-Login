@@ -42,7 +42,7 @@ const firebaseConfig = {
 };
 ```
 ### Usage
-1. Access the app in your web browser at http://localhost or the URL where you've hosted it.
+1. Access the app in your web browser at https://sekharsunkara6.github.io/Firebase-Signup-Login/ or the URL where you've hosted it.
 
 ### Customization
 
